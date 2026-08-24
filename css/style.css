@@ -38,7 +38,7 @@ a:hover {
     display: flex;
 }
 
-.content:not(img) {
+.content {
     flex-direction: column;
 }
 

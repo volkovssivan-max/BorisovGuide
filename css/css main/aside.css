@@ -115,8 +115,10 @@
         margin-top: 40px; 
     }
 
-    header {
+
+    header h2 {
         font-size: 1em;
+        margin-left: 35px;
     }
 
     #aside_ul {
